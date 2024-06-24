@@ -8,7 +8,7 @@ import PersonTwo from "@/assets/person-2.webp";
 export default function Home() {
   return (
     <main className="max-w-[1200px] w-full mx-auto">
-      <div className="min-h-screen px-4 py-6 md:flex md:items-center md:px-0">
+      <div className="min-h-screen px-4 py-6 md:flex md:items-center md:gap-x-6 md:px-0">
         <div className="space-y-6">
           <p className="text-xl">Hi, Riyyan Selamat datang di</p>
           <p className="font-bold text-3xl">Digital Marketing Job Guarantee Bootcamp</p>
