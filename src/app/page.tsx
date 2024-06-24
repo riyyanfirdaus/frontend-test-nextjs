@@ -12,7 +12,7 @@ export default function Home() {
         <div className="space-y-6">
           <p className="text-xl">Hi, Riyyan Selamat datang di</p>
           <p className="font-bold text-3xl">Digital Marketing Job Guarantee Bootcamp</p>
-          <p className="font-base">"Raih karier impian dengan pelatihan intensif dan ekslusif bersama para high-achievers dengan jaminan 100% uang kembali"</p>
+          <p className="font-base">&quot;Raih karier impian dengan pelatihan intensif dan ekslusif bersama para high-achievers dengan jaminan 100% uang kembali&quot;</p>
           <p className="font-bold text-base">100% Alumni Job Guarantee Program telah bekerja di:</p>
           <div className="overflow-x-hidden">
             <div className="flex animate-marquee">
